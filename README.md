@@ -1,3 +1,5 @@
+# Plantilla
+![Plantilla](public/iteratorTemplate.webp)
 
 # Diagrama de Clases
 
