@@ -1,7 +1,4 @@
 
-3. **Ejemplo**: Aquí tienes un ejemplo de un diagrama de secuencia Mermaid para el patrón iterador que vimos antes:
-
-```markdown
 # Diagrama de Secuencia para el Patrón Iterador
 
 ```mermaid
@@ -25,3 +22,4 @@ sequenceDiagram
             iterator-->>client: return Book
         end
     end
+```
