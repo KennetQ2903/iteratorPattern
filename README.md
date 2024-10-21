@@ -1,5 +1,9 @@
 
-# Diagrama de Secuencia para el Patrón Iterador
+# Diagrama de Clases
+
+![Diagrama de clases](public/iteratorPattern.png)
+
+# Diagrama de Secuencia
 
 ```mermaid
 sequenceDiagram
